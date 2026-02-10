@@ -94,7 +94,7 @@ fun_fact: I code, therefore I am ☕
 ## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -104,7 +104,7 @@ fun_fact: I code, therefore I am ☕
 
 > 📦 281.9 kB Used in GitHub's Storage 
  > 
-> 🏆 226 Contributions in the Year 2026
+> 🏆 227 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -112,45 +112,6 @@ fun_fact: I code, therefore I am ☕
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                973 commits         ███████████░░░░░░░░░░░░░░   42.30 % 
-🌆 Daytime                652 commits         ███████░░░░░░░░░░░░░░░░░░   28.35 % 
-🌃 Evening                593 commits         ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
-🌙 Night                  82 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   310 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Tuesday                  373 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Wednesday                432 commits         █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-Thursday                 381 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-Friday                   418 commits         █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
-Saturday                 287 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Sunday                   99 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -164,7 +125,7 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/02/2026 17:47:51 UTC
+ Last Updated on 10/02/2026 19:03:46 UTC
 <!--END_SECTION:waka-->
 
 > ⚙️ **Auto-updates daily** — Set up [WakaTime](https://wakatime.com) + add `WAKATIME_API_KEY` & `GH_TOKEN` secrets to populate real data!
