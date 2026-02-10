@@ -221,9 +221,9 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashasvi211/yashasvi211/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashasvi211/yashasvi211/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yashasvi211/yashasvi211/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashasvi211/yashasvi211/output/github-snake-dark.svg?palette=github-dark&t=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashasvi211/yashasvi211/output/github-snake.svg?t=1">
+    <img alt="github snake animation" src="https://raw.githubusercontent.com/yashasvi211/yashasvi211/output/github-snake.svg?t=1">
   </picture>
 </div>
 
