@@ -8,9 +8,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Yashasvi;A+Passionate+Full-Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
   </a>
 
-  <!-- Profile Views Badge (Cumulative Total) -->
+  <!-- Profile Views Badge -->
   <br>
-  <img src="https://visitcount.itsvg.in/api?id=yashasvi211&label=Total%20Profile%20Views&color=6&icon=5&pretty=true" alt="Total Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=yashasvi211&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
   
 </div>
 
@@ -227,18 +227,7 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
   </picture>
 </div>
 
----
 
-<!-- Pac-Man Contribution Graph -->
-## 👾 Pac-Man Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashasvi211/yashasvi211/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashasvi211/yashasvi211/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yashasvi211/yashasvi211/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
 
 ---
 
