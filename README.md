@@ -92,12 +92,77 @@ fun_fact: I code, therefore I am ☕
 ## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.19%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 281.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 223 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 28 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
 ```text
-⏳ WakaTime stats are loading...
-   Run the "WakaTime Stats" GitHub Action to populate this section.
+🌞 Morning                973 commits         ███████████░░░░░░░░░░░░░░   42.38 % 
+🌆 Daytime                652 commits         ███████░░░░░░░░░░░░░░░░░░   28.40 % 
+🌃 Evening                589 commits         ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+🌙 Night                  82 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   310 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Tuesday                  369 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Wednesday                432 commits         █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+Thursday                 381 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+Friday                   418 commits         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+Saturday                 287 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Sunday                   99 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               10 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Java                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+```
+
+
+
+
+ Last Updated on 10/02/2026 13:18:17 UTC
 <!--END_SECTION:waka-->
 
 > ⚙️ **Auto-updates daily** — Set up [WakaTime](https://wakatime.com) + add `WAKATIME_API_KEY` & `GH_TOKEN` secrets to populate real data!
