@@ -112,6 +112,50 @@ fun_fact: I code, therefore I am ☕
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                973 commits         ███████████░░░░░░░░░░░░░░   42.30 % 
+🌆 Daytime                652 commits         ███████░░░░░░░░░░░░░░░░░░   28.35 % 
+🌃 Evening                593 commits         ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
+🌙 Night                  82 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   310 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Tuesday                  373 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Wednesday                432 commits         █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+Thursday                 381 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Friday                   418 commits         █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+Saturday                 287 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Sunday                   99 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               28 mins             █████████░░░░░░░░░░░░░░░░   36.05 % 
+Markdown                 26 mins             ████████░░░░░░░░░░░░░░░░░   33.92 % 
+YAML                     21 mins             ███████░░░░░░░░░░░░░░░░░░   26.95 % 
+C++                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+
+🔥 Editors: 
+Antigravity              1 hr 18 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+yashasvi211              50 mins             ████████████████░░░░░░░░░   63.83 % 
+eQMS                     28 mins             █████████░░░░░░░░░░░░░░░░   36.17 % 
+
+💻 Operating System: 
+Linux                    1 hr 18 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -125,7 +169,7 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/02/2026 19:03:46 UTC
+ Last Updated on 10/02/2026 20:06:58 UTC
 <!--END_SECTION:waka-->
 
 > ⚙️ **Auto-updates daily** — Set up [WakaTime](https://wakatime.com) + add `WAKATIME_API_KEY` & `GH_TOKEN` secrets to populate real data!
