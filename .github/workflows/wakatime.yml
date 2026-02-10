@@ -27,5 +27,7 @@ jobs:
           SHOW_COMMIT: "True"
           SHOW_TIMEZONE: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
-          COMMIT_BY_ME: "True"
+          COMMIT_BY_ME: "False"
+          COMMIT_USERNAME: "github-actions[bot]"
+          COMMIT_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
           LOCALE: "en"
