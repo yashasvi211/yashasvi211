@@ -43,7 +43,6 @@ fun_fact: I code, therefore I am ☕
 
 ![GitHub followers](https://img.shields.io/github/followers/yashasvi211?style=for-the-badge&logo=github&color=6C63FF&labelColor=1a1a2e)
 ![GitHub User's stars](https://img.shields.io/github/stars/yashasvi211?affiliations=OWNER&style=for-the-badge&logo=github&color=f5a623&labelColor=1a1a2e)
-![GitHub last commit](https://img.shields.io/github/last-commit/yashasvi211/yashasvi211?style=for-the-badge&logo=github&color=00d4aa&labelColor=1a1a2e&label=Last%20Active)
 
 </div>
 
@@ -80,11 +79,14 @@ fun_fact: I code, therefore I am ☕
 ---
 
 <!-- GitHub Trophies Section -->
+<!-- Note: github-profile-trophy.vercel.app is currently down (503). Uncomment below when service is restored, or self-host using https://github.com/ryo-ma/github-profile-trophy -->
+<!-- 
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yashasvi211&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </div>
+-->
 
 ---
 
@@ -172,10 +174,14 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Stats
 
+<!-- Note: github-readme-stats.vercel.app is currently down (503). The public Vercel deployment is paused. -->
+<!-- You can self-host using: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
+<!-- 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashasvi211&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashasvi211&show_icons=true&theme=radical&layout=compact&hide_border=true&langs_count=10" alt="Top Languages" />
 </div>
+-->
 
 <br>
 
