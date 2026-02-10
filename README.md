@@ -8,9 +8,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Yashasvi;A+Passionate+Full-Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
   </a>
 
-  <!-- Profile Views Badge -->
+  <!-- Profile Views Badge (Cumulative Total) -->
   <br>
-  <img src="https://komarev.com/ghpvc/?username=yashasvi211&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="profile views" />
+  <img src="https://visitcount.itsvg.in/api?id=yashasvi211&label=Total%20Profile%20Views&color=6&icon=5&pretty=true" alt="Total Profile Views" />
   
 </div>
 
@@ -33,6 +33,19 @@ fun_fact: I code, therefore I am ☕
 ```
 
 <br clear="right"/>
+
+---
+
+<!-- GitHub Metadata Badges -->
+## 📋 GitHub At a Glance
+
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/yashasvi211?style=for-the-badge&logo=github&color=6C63FF&labelColor=1a1a2e)
+![GitHub User's stars](https://img.shields.io/github/stars/yashasvi211?affiliations=OWNER&style=for-the-badge&logo=github&color=f5a623&labelColor=1a1a2e)
+![GitHub last commit](https://img.shields.io/github/last-commit/yashasvi211/yashasvi211?style=for-the-badge&logo=github&color=00d4aa&labelColor=1a1a2e&label=Last%20Active)
+
+</div>
 
 ---
 
@@ -66,38 +79,28 @@ fun_fact: I code, therefore I am ☕
 
 ---
 
+<!-- GitHub Trophies Section -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashasvi211&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+</div>
+
+---
+
 <!-- Coding Stats Section -->
 ## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 
 ```text
-⌚ Time Zone: Asia/Kolkata
-
-💬 Languages (This Week):
-JavaScript               ░░░░░░░░░░░░░░░░░░░░░░░░░   -- hrs -- mins
-TypeScript               ░░░░░░░░░░░░░░░░░░░░░░░░░   -- hrs -- mins
-Python                   ░░░░░░░░░░░░░░░░░░░░░░░░░   -- hrs -- mins
-CSS                      ░░░░░░░░░░░░░░░░░░░░░░░░░   -- hrs -- mins
-HTML                     ░░░░░░░░░░░░░░░░░░░░░░░░░   -- hrs -- mins
-
-📊 Overall Stats:
-Total Coding Time:       -- hrs -- mins (this week)
-Total Commits (2026):    -- commits across all repos
-Total Lines of Code:     -- lines across all repos
-Productivity Peak:       -------------------------
-
-🔥 Editors:
-VS Code                  ░░░░░░░░░░░░░░░░░░░░░░░░░   -- hrs -- mins
+⏳ WakaTime stats are loading...
+   Run the "WakaTime Stats" GitHub Action to populate this section.
 ```
-
-> ⚙️ **Auto-updates daily** — Set up [WakaTime](https://wakatime.com) + add `WAKATIME_API_KEY` & `GH_TOKEN` secrets to populate real data!
 
 <!--END_SECTION:waka-->
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yashasvi211&theme=radical&hide_border=true&layout=compact&langs_count=10&range=last_7_days" alt="WakaTime Language Stats" />
-</div>
+> ⚙️ **Auto-updates daily** — Set up [WakaTime](https://wakatime.com) + add `WAKATIME_API_KEY` & `GH_TOKEN` secrets to populate real data!
 
 ---
 
@@ -105,8 +108,8 @@ VS Code                  ░░░░░░░░░░░░░░░░░░�
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashasvi211&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashasvi211&show_icons=true&theme=radical&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashasvi211&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashasvi211&show_icons=true&theme=radical&layout=compact&hide_border=true&langs_count=10" alt="Top Languages" />
 </div>
 
 <br>
@@ -118,7 +121,26 @@ VS Code                  ░░░░░░░░░░░░░░░░░░�
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashasvi211&theme=redical&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashasvi211&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
+---
+
+<!-- GitHub Profile Summary Cards -->
+## 📈 Profile Summary
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashasvi211&theme=radical" alt="Profile Details" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashasvi211&theme=radical" alt="Repos Per Language" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashasvi211&theme=radical" alt="Most Commit Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashasvi211&theme=radical" alt="Stats Card" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashasvi211&theme=radical&utcOffset=5.5" alt="Productive Time" />
 </div>
 
 ---
