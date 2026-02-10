@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Header Banner GIF -->
-  <img src="./assets/dedrick-koh-ezgif-com-gif-maker.gif" width="100%" alt="coding animation" />
+  <!-- Header Banner Video -->
+  <video src="https://github.com/yashasvi211/yashasvi211/raw/main/assets/main-environmentdesign-nocharacters.mp4" width="100%" autoplay loop muted playsinline></video>
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
@@ -67,50 +67,36 @@ fun_fact: I code, therefore I am ☕
 ---
 
 <!-- Coding Stats Section -->
-## ⏱️ Coding Stats
+## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data**
-
-> 📦 Used in GitHub's Storage
->
-> 🏆 Contributions in the year 2026
->
-> 💼 Opted to Hire
->
-> 📜 Public Repos
->
-
-**I'm an Early 🐤**
-
-| | | | |
-| --- | --- | --- | --- |
-| 🌞 Morning | Commits | ████░░░░░░░░░░░░░░░░░░░░░ | % |
-| 🌆 Daytime | Commits | ██████████░░░░░░░░░░░░░░░ | % |
-| 🌃 Evening | Commits | ████████████░░░░░░░░░░░░░ | % |
-| 🌙 Night | Commits | ██░░░░░░░░░░░░░░░░░░░░░░░ | % |
-
-**📊 This Week I Spent My Time On**
 
 ```text
-⌚ Timezone: Asia/Kolkata
+⌚ Time Zone: Asia/Kolkata
 
-💬 Programming Languages:
-Setup WakaTime to see your stats here!
+💬 Languages (This Week):
+JavaScript               ░░░░░░░░░░░░░░░░░░░░░░░░░   -- hrs -- mins
+TypeScript               ░░░░░░░░░░░░░░░░░░░░░░░░░   -- hrs -- mins
+Python                   ░░░░░░░░░░░░░░░░░░░░░░░░░   -- hrs -- mins
+CSS                      ░░░░░░░░░░░░░░░░░░░░░░░░░   -- hrs -- mins
+HTML                     ░░░░░░░░░░░░░░░░░░░░░░░░░   -- hrs -- mins
+
+📊 Overall Stats:
+Total Coding Time:       -- hrs -- mins (this week)
+Total Commits (2026):    -- commits across all repos
+Total Lines of Code:     -- lines across all repos
+Productivity Peak:       -------------------------
 
 🔥 Editors:
-Setup WakaTime to see your stats here!
-
-💻 Operating System:
-Setup WakaTime to see your stats here!
+VS Code                  ░░░░░░░░░░░░░░░░░░░░░░░░░   -- hrs -- mins
 ```
 
-> ⚙️ **Setup Required**: Add WakaTime to your IDE and set `WAKATIME_API_KEY` + `GH_TOKEN` secrets in this repo to auto-populate stats!
+> ⚙️ **Auto-updates daily** — Set up [WakaTime](https://wakatime.com) + add `WAKATIME_API_KEY` & `GH_TOKEN` secrets to populate real data!
 
 <!--END_SECTION:waka-->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yashasvi211&theme=radical&hide_border=true&layout=compact&langs_count=10&range=last_7_days" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yashasvi211&theme=radical&hide_border=true&layout=compact&langs_count=10&range=last_7_days" alt="WakaTime Language Stats" />
 </div>
 
 ---
