@@ -106,9 +106,9 @@ fun_fact: I code, therefore I am ☕
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 28 Public Repositories 
+> 📜 27 Public Repositories 
  > 
-> 🔑 9 Private Repositories 
+> 🔑 10 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -162,7 +162,7 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/02/2026 13:18:17 UTC
+ Last Updated on 10/02/2026 13:33:55 UTC
 <!--END_SECTION:waka-->
 
 > ⚙️ **Auto-updates daily** — Set up [WakaTime](https://wakatime.com) + add `WAKATIME_API_KEY` & `GH_TOKEN` secrets to populate real data!
