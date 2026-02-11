@@ -202,6 +202,19 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 
 ---
 
+<!-- LeetCode Stats Section -->
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-yashasvi211-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e)](https://leetcode.com/u/yashasvi211/)
+
+<img src="https://leetcard.jacoblin.cool/yashasvi211?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+
+</div>
+
+---
+
 <!-- GitHub Profile Summary Cards -->
 ## 📈 Profile Summary
 
