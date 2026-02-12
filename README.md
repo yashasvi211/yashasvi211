@@ -94,9 +94,9 @@ fun_fact: I code, therefore I am ☕
 ## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2033%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.91%20million%20lines%20of%20code-blue?style=flat)
 
@@ -139,21 +139,23 @@ Sunday                   106 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               28 mins             █████████░░░░░░░░░░░░░░░░   36.05 % 
-Markdown                 26 mins             ████████░░░░░░░░░░░░░░░░░   33.92 % 
-YAML                     21 mins             ███████░░░░░░░░░░░░░░░░░░   26.95 % 
-C++                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+JavaScript               2 hrs               ███████████████░░░░░░░░░░   58.82 % 
+Markdown                 45 mins             ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+YAML                     36 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+C++                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Antigravity              1 hr 18 mins        █████████████████████████   100.00 % 
+Antigravity              3 hrs 6 mins        ███████████████████████░░   90.69 % 
+Obsidian                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
 
 🐱‍💻 Projects: 
-yashasvi211              50 mins             ████████████████░░░░░░░░░   63.83 % 
-eQMS                     28 mins             █████████░░░░░░░░░░░░░░░░   36.17 % 
+eQMS                     2 hrs               ███████████████░░░░░░░░░░   58.86 % 
+yashasvi211              1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   31.83 % 
+Unknown Project          19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
 
 💻 Operating System: 
-Linux                    1 hr 18 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -169,7 +171,7 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 11/02/2026 12:48:42 UTC
+ Last Updated on 12/02/2026 01:21:54 UTC
 <!--END_SECTION:waka-->
 
 > ⚙️ **Auto-updates daily** — Set up [WakaTime](https://wakatime.com) + add `WAKATIME_API_KEY` & `GH_TOKEN` secrets to populate real data!
