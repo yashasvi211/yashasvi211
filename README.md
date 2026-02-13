@@ -46,6 +46,39 @@ I'm a passionate **Full-Stack Developer** from **India 🇮🇳**. I specialize 
 ### ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.61%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1220 commits        ███████████░░░░░░░░░░░░░░   43.08 % 
+🌆 Daytime                819 commits         ███████░░░░░░░░░░░░░░░░░░   28.92 % 
+🌃 Evening                693 commits         ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
+🌙 Night                  100 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   383 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Tuesday                  461 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Wednesday                538 commits         █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+Thursday                 474 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Friday                   518 commits         █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+Saturday                 345 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Sunday                   113 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+```
+
+
+ Last Updated on 13/02/2026 01:24:42 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
