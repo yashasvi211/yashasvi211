@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashasvi</h1>
 
-<div align="center">
-  <img src="assets/nico-n-cosy-bedroom-1920x1080-gif.gif" width="100%" />
-</div>
-
----
-
 ### 👨‍💻 About Me
 So, I'm a **Software Engineer** based in **India** and yes, I do actually enjoy what I do.<br/>
 
@@ -20,9 +14,30 @@ Always want to learn something new — the **product**, the **problem**, the **p
 ### 🌐 Connect With Me
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/yashasvi211/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/yashasvi211"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="45" height="45" alt="Twitter"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:your.email@example.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="45" height="45" alt="Gmail"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://leetcode.com/u/yashasvi211/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="45" height="45" alt="LeetCode"/></a>
-
+  <table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" style="border: none; padding: 0 12px;">
+        <a href="https://www.linkedin.com/in/yashasvi211/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn"/>
+        </a>
+      </td>
+      <td align="center" style="border: none; padding: 0 12px;">
+        <a href="https://twitter.com/yashasvi211">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="45" height="45" alt="Twitter"/>
+        </a>
+      </td>
+      <td align="center" style="border: none; padding: 0 12px;">
+        <a href="mailto:yashasvi3000@gmail.com">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="45" height="45" alt="Gmail"/>
+        </a>
+      </td>
+      <td align="center" style="border: none; padding: 0 12px;">
+        <a href="https://leetcode.com/u/yashasvi211/">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="45" height="45" alt="LeetCode"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -30,20 +45,20 @@ Always want to learn something new — the **product**, the **problem**, the **p
 ### 🛠️ Tech Stack & Skills
 
 <div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50" alt="AWS"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
-
+  <table style="border: none; border-collapse: collapse;" border="0" cellspacing="10" cellpadding="0">
+    <tr>
+      <td align="center" style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/></td>
+      <td align="center" style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/></td>
+      <td align="center" style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/></td>
+      <td align="center" style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/></td>
+      <td align="center" style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/></td>
+      <td align="center" style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/></td>
+      <td align="center" style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/></td>
+      <td align="center" style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/></td>
+      <td align="center" style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50" alt="AWS"/></td>
+      <td align="center" style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/></td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -51,14 +66,13 @@ Always want to learn something new — the **product**, the **problem**, the **p
 ### 📊 GitHub Stats
 
 <div align="center">
-
   <a href="https://github.com/yashasvi211" target="_blank">
     <img width="60%" src="https://streak-stats.demolab.com?user=yashasvi211&theme=radical&hide_border=true&fire=FF6B6B&ring=FF6B6B&currStreakLabel=FF6B6B&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=FF6B6B&sideNums=ffffff&background=141321" alt="GitHub Streak" />
   </a>
-
 </div>
 
 ---
+ 
 
 ### ⏱️ Weekly Development Breakdown
 
