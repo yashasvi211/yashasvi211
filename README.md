@@ -4,40 +4,57 @@
   <img src="assets/nico-n-cosy-bedroom-1920x1080-gif.gif" width="100%" />
 </div>
 
-### 👨‍💻 About Me
+---
 
-I'm a passionate **Full-Stack Developer** from **India 🇮🇳**. I specialize in building robust and scalable web applications using modern technologies like React, Node.js, and Python. I enjoy exploring new tools and contributing to open-source projects. Currently, I'm focused on mastering advanced backend patterns and improving my frontend artistry.
+### 👨‍💻 About Me
+So, I'm a **Software Engineer** based in **India** and yes, I do actually enjoy what I do.<br/>
+
+I spend my time **solving problems**, picking up **new technologies**, and finding better ways to do things that probably already have an answer buried somewhere in an AI response that confidently got it 80% right. I handle the **remaining 20%**.<br/>
+
+Always want to learn something new — the **product**, the **problem**, the **people** behind it — and contribute in ways that **actually matter**. Not the person who knows everything, but genuinely interested in the work and the challenges that come with it. Which, honestly, counts for a lot.<br/>
+
+**Adaptable, curious, and reliably useful.** Any team, any challenge — I'll figure it out.
 
 ---
 
-### 🤝 Connect With Me
+### 🌐 Connect With Me
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/yashasvi211/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yashasvi211)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/yashasvi211/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<a href="https://www.linkedin.com/in/yashasvi211/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/yashasvi211"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="45" height="45" alt="Twitter"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:your.email@example.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="45" height="45" alt="Gmail"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://leetcode.com/u/yashasvi211/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="45" height="45" alt="LeetCode"/></a>
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logo=chroma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50" alt="AWS"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+  <a href="https://github.com/yashasvi211" target="_blank">
+    <img width="60%" src="https://streak-stats.demolab.com?user=yashasvi211&theme=radical&hide_border=true&fire=FF6B6B&ring=FF6B6B&currStreakLabel=FF6B6B&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=FF6B6B&sideNums=ffffff&background=141321" alt="GitHub Streak" />
+  </a>
 
 </div>
 
@@ -46,39 +63,30 @@ I'm a passionate **Full-Stack Developer** from **India 🇮🇳**. I specialize 
 ### ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.78%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.72%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1498 commits        ███████████░░░░░░░░░░░░░░   43.50 % 
-🌆 Daytime                1047 commits        ████████░░░░░░░░░░░░░░░░░   30.40 % 
-🌃 Evening                789 commits         ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
-🌙 Night                  110 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+🌞 Morning                1468 commits        ███████████░░░░░░░░░░░░░░   43.33 % 
+🌆 Daytime                1024 commits        ████████░░░░░░░░░░░░░░░░░   30.22 % 
+🌃 Evening                786 commits         ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+🌙 Night                  110 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 ```
+
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   479 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-Tuesday                  552 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-Wednesday                686 commits         █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
-Thursday                 568 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Friday                   625 commits         █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-Saturday                 407 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Sunday                   127 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Monday                   468 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Tuesday                  546 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Wednesday                659 commits         █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
+Thursday                 561 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Friday                   625 commits         █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+Saturday                 402 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Sunday                   127 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-```
-
-
- Last Updated on 20/02/2026 12:39:55 UTC
+ Last Updated on 18/02/2026 12:42:54 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
