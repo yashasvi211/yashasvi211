@@ -100,15 +100,6 @@ Friday                   627 commits         █████░░░░░░�
 Saturday                 406 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
 Sunday                   127 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 ```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-```
-
-
  Last Updated on 20/02/2026 16:16:29 UTC
 <!--END_SECTION:waka-->
 
