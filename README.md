@@ -79,10 +79,37 @@ Always want to learn something new — the **product**, the **problem**, the **p
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.46%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.51%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                5913 commits        ██████████░░░░░░░░░░░░░░░   39.95 % 
+🌆 Daytime                5483 commits        █████████░░░░░░░░░░░░░░░░   37.04 % 
+🌃 Evening                3117 commits        █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+🌙 Night                  289 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   2485 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Tuesday                  2237 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Wednesday                2234 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Thursday                 2275 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Friday                   2041 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Saturday                 2688 commits        █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+Sunday                   842 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+```
 
 
- Last Updated on 15/05/2026 13:51:37 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+```
+
+
+ Last Updated on 16/05/2026 02:12:09 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
