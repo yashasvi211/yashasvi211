@@ -77,6 +77,8 @@ Always want to learn something new — the **product**, the **problem**, the **p
 ### ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-82%20hrs%2031%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46.88%20million%20lines%20of%20code-blue?style=flat)
@@ -108,8 +110,14 @@ Sunday                   1487 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 14:22:04 UTC
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 28/07/2026 01:54:41 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
