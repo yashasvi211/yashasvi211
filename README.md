@@ -77,47 +77,12 @@ Always want to learn something new — the **product**, the **problem**, the **p
 ### ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-82%20hrs%2031%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48.59%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                11231 commits       ██████████░░░░░░░░░░░░░░░   41.01 % 
-🌆 Daytime                9741 commits        █████████░░░░░░░░░░░░░░░░   35.57 % 
-🌃 Evening                5963 commits        █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
-🌙 Night                  454 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   4745 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Tuesday                  4144 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Wednesday                4395 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Thursday                 3988 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Friday                   3875 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Saturday                 4716 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-Sunday                   1526 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 06/08/2026 13:51:29 UTC
+ Last Updated on 07/08/2026 02:19:11 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
